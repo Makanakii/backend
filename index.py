@@ -4,4 +4,4 @@ print("You said: " + response)
 
 print("who is the strongest")
 response = input(" ")
-print("SATORU GOJO !!!")
+print("SIKEEEE, IT'S SATORU GOJO !!!")
